@@ -1,6 +1,6 @@
 name: flexible_calendar
 description: A flexible libray for Custom Calendar, you can selected one day, range days, limited dates, beautiful interface and more.
-version: 1.0.0
+version: 1.0.1
 authors:
   - QuanTran<tranhongquan144@gmail.com>
 homepage: https://github.com/WanTranAndroid/flexible_calendar
