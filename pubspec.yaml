@@ -3,7 +3,7 @@ description: A flexible libray for Custom Calendar, you can selected one day, ra
 version: 1.0.0
 authors:
   - QuanTran<tranhongquan144@gmail.com>
-homepage: https://github.com/WanTranAndroid
+homepage: https://github.com/WanTranAndroid/flexible_calendar
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
