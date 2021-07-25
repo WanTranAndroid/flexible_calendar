@@ -2,6 +2,8 @@
 
 Flexible Calendar widget that makes custom a Calendar much easier! Based on the StatefulWidget, this widget works on both Android & iOS.
 
+https://pub.dev/packages/flexible_calendar
+
 # Installing
 Add the following to your `pubspec.yaml` file:
 
